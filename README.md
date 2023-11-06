@@ -9,4 +9,5 @@ Solution for Digitari ML / Python Developer Tech Test
 
 
 To Note:
+- The code does take a few moments to run
 - I am aware that there are improvements to be made and would appreciate the chance to discuss these during a meeting as well as go over my solution with you.
